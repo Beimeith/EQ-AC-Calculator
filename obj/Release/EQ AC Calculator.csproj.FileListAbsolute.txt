@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\bin\Release\EQ AC Calculator.exe.config
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\bin\Release\EQ AC Calculator.exe
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\bin\Release\EQ AC Calculator.pdb
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ_AC_Calculator.Details.resources
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ_AC_Calculator.MainScreen.resources
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ_AC_Calculator.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ AC Calculator.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ AC Calculator.exe
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ AC Calculator.pdb
+C:\Users\Michael\Documents\GitHub\EQ AC Calculator\EQ AC Calculator\obj\Release\EQ AC Calculator.csprojResolveAssemblyReference.cache
